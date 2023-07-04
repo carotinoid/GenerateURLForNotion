@@ -53,6 +53,7 @@ $(function () {
         "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/3.mp3",
         "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/4.mp3",
         "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/5.mp3"
+        //https://raw.githubusercontent.com/*저장소이름*/files/*브랜치이름*/*파일명.확장자*
     ],
     playPreviousTrackButton = $("#play-previous"),
     playNextTrackButton = $("#play-next"),
